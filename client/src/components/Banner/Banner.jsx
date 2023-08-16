@@ -12,7 +12,7 @@ const Image = styled(Box)`
 
 const Heading = styled(Typography)`
     font-size: 70px;
-    color: #FFFFFF;
+    color: #FFFFFF; 
     line-height: 1
 `;
 
